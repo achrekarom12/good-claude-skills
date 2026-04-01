@@ -9,3 +9,4 @@ This repository contains a collection of skills for Claude AI.
 - [Open PR Review](open-pr/SKILL.md)
 - [Variable Renamer](variable-renamer/SKILL.md)
 - [Focused Fix](focused-fix/SKILL.md)
+- [Database Schema Designer](database-schema-designer/SKILL.md)
