@@ -10,3 +10,4 @@ This repository contains a collection of skills for Claude AI.
 - [Variable Renamer](variable-renamer/SKILL.md)
 - [Focused Fix](focused-fix/SKILL.md)
 - [Database Schema Designer](database-schema-designer/SKILL.md)
+- [Git Worktree Manager](git-worktree-manager/SKILL.md)
