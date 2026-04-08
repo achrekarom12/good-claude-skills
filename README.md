@@ -11,3 +11,5 @@ This repository contains a collection of skills for Claude AI.
 - [Focused Fix](focused-fix/SKILL.md)
 - [Database Schema Designer](database-schema-designer/SKILL.md)
 - [Git Worktree Manager](git-worktree-manager/SKILL.md)
+- [Human Like Response](human/SKILL.md)
+- [LLM Cost Optimizer](llm-cost-optimizer/SKILL.md)
