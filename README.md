@@ -14,3 +14,4 @@ This repository contains a collection of skills for Claude AI.
 - [Human Like Response](human/SKILL.md)
 - [LLM Cost Optimizer](llm-cost-optimizer/SKILL.md)
 - [Ticket Writer](ticket-writer/SKILL.md)
+- [Borwser Automation](browser-automation/SKILL.md)
